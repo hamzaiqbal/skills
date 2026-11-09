@@ -1,5 +1,5 @@
 ---
-name: redaction-style
+name: linkedin-post
 description: Rédige des posts LinkedIn dans le style de Hamza Iqbal — expert accessibilité numérique et Lead Dev Front-End. Utilise ce skill dès que l'utilisateur demande de rédiger, reformuler, améliorer ou générer un post LinkedIn, un contenu de sensibilisation à l'accessibilité, ou tout contenu professionnel à publier sur les réseaux sociaux. Applique systématiquement ce style même si l'utilisateur ne le demande pas explicitement, dès lors qu'il s'agit d'un post ou d'une prise de parole publique.
 ---
 
@@ -58,7 +58,7 @@ Exemple : *"Elle ne représente que… / Elle se résume souvent à… / Elle es
 Presque tous les posts se terminent sur une conviction philosophique ou un engagement personnel — jamais une conclusion molle. Souvent une formule mémorable.
 
 ### L'humour comme arme
-Glisse des références culturelles (Godwin, Contre UNO, Super Saiyan, cartes UNO, références pop/tech) qui créent une complicité sans décrédibiliser le propos.
+Glisse des références culturelles / pop / tech qui créent une complicité sans décrédibiliser le propos.
 
 ### La clôture en "je"
 Les posts forts se terminent sur un "je" assumé, pas un appel à l'audience. Il n'invite pas les autres à agir — il affirme ce que lui fera.
@@ -77,7 +77,6 @@ Exemples : *"Restez focus !"* / *"Pour 20 ans encore s'il le faut."*
 ## Ce qu'il ne fait jamais
 
 - Pas d'accroche manipulatoire type "3 choses que…" ou "Voici pourquoi…"
-- Pas de "partage si tu es d'accord"
 - Pas de post sans point de vue clair
 - Pas de jargon non expliqué quand l'audience peut être mixte
 - Pas de conclusion molle ou ouverte sans conviction
@@ -92,6 +91,20 @@ Exemples : *"Restez focus !"* / *"Pour 20 ans encore s'il le faut."*
 - Posts longs : structurés en sections avec titres courts (ex : *"➡️ 20 ans d'idées reçues"*)
 - Toujours terminer par des hashtags pertinents (4 à 6 maximum)
 - Limite LinkedIn : 3 000 caractères — vérifier systématiquement
+
+---
+
+## Contrôle anti-IA avant livraison
+
+Une fois le post rédigé, applique le skill `humanizer` sur le brouillon, en mode réécriture : ses règles non négociables (ne rien inventer, zones protégées), sa passe mécanique, ses patterns et son contrôle en 5 points font foi. Ne les redéfinis pas ici. Livre le post corrigé, suivi du verdict du contrôle en une ligne.
+
+**Les choix de style de ce skill priment sur `humanizer`.** Ne pas les corriger comme des tells IA :
+- l'anaphore en liste et les listes lapidaires de 3-4 éléments (P9)
+- la phrase de bascule isolée et la question rhétorique d'ouverture (P23)
+- les titres de section à emoji comme *"➡️ 20 ans d'idées reçues"* (P15)
+- les 4 à 6 hashtags de fin de post (P27)
+
+Tout le reste du contrôle s'applique, en particulier les tirets cadratins, les ouvertures-clichés, les appâts à engagement et les faits non sourcés. Les citations "entendues sur le terrain" viennent de l'utilisateur, jamais de toi.
 
 ---
 
