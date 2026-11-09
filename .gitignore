@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Éditeurs
+.idea/
+.vscode/
+*.swp
+
+# Configuration locale de Claude Code (le dossier .claude-plugin/ reste versionné)
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Secrets et variables d'environnement
+.env
+.env.*
+!.env.example
+
+# Dépendances et fichiers temporaires
+node_modules/
+*.log
+tmp/

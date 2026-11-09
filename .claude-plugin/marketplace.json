@@ -1,0 +1,13 @@
+{
+  "name": "hamza-iqbal-skills",
+  "owner": {
+    "name": "Hamza Iqbal"
+  },
+  "plugins": [
+    {
+      "name": "hamza-iqbal-skills",
+      "source": "./",
+      "description": "Collection de skills personnels de Hamza Iqbal pour Claude Code."
+    }
+  ]
+}
