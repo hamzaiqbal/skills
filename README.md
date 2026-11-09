@@ -53,7 +53,13 @@ Dans Claude Code :
 
 ## Skills disponibles
 
-_Aucun pour le moment._
+| Skill | Rôle |
+| --- | --- |
+| `humanizer` | Retire les marqueurs de texte généré par IA pour un rendu plus naturel. |
+| `langage-clair` | Réécrit ou évalue un texte en langage clair. |
+| `redaction-style` | Rédige des posts LinkedIn dans le style de Hamza Iqbal. |
+| `structure-transcript` | Nettoie et structure une transcription vocale ou une dictée. |
+| `tldr` | Résume un document, un texte ou une page web en français. |
 
 ## Licence
 
