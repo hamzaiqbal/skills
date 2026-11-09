@@ -57,7 +57,7 @@ Dans Claude Code :
 | --- | --- |
 | `humanizer` | Retire les marqueurs de texte généré par IA pour un rendu plus naturel. |
 | `langage-clair` | Réécrit ou évalue un texte en langage clair. |
-| `redaction-style` | Rédige des posts LinkedIn dans le style de Hamza Iqbal. |
+| `linkedin-post` | Rédige des posts LinkedIn dans le style de Hamza Iqbal. |
 | `structure-transcript` | Nettoie et structure une transcription vocale ou une dictée. |
 | `tldr` | Résume un document, un texte ou une page web en français. |
 
