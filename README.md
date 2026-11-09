@@ -1,4 +1,4 @@
-# Skills de Hamza
+# Skills personnels de Hamza Iqbal
 
 Collection de mes skills personnels pour [Claude Code](https://claude.com/claude-code), distribuée sous forme de plugin.
 
@@ -25,6 +25,17 @@ Dans Claude Code :
 └── README.md
 ```
 
+## Skills disponibles
+
+| Skill | Rôle |
+| --- | --- |
+| `humanizer` | Retire les marqueurs de texte généré par IA pour un rendu plus naturel. |
+| `langage-clair` | Réécrit ou évalue un texte en langage clair. |
+| `linkedin-post` | Rédige des posts LinkedIn dans le style de Hamza Iqbal. |
+| `structure-transcript` | Nettoie et structure une transcription vocale ou une dictée. |
+| `tldr` | Résume un document, un texte ou une page web en français. |
+
+
 ## Ajouter un skill
 
 1. Créer un dossier `skills/<nom-du-skill>/` (nom en minuscules, avec des tirets).
@@ -50,16 +61,6 @@ Dans Claude Code :
 - **Un skill, une responsabilité** : mieux vaut plusieurs skills ciblés qu'un seul fourre-tout.
 - **Détails à la demande** : garder `SKILL.md` concis et déporter le reste dans des fichiers annexes.
 - **Pas de secrets** dans le dépôt.
-
-## Skills disponibles
-
-| Skill | Rôle |
-| --- | --- |
-| `humanizer` | Retire les marqueurs de texte généré par IA pour un rendu plus naturel. |
-| `langage-clair` | Réécrit ou évalue un texte en langage clair. |
-| `linkedin-post` | Rédige des posts LinkedIn dans le style de Hamza Iqbal. |
-| `structure-transcript` | Nettoie et structure une transcription vocale ou une dictée. |
-| `tldr` | Résume un document, un texte ou une page web en français. |
 
 ## Licence
 
