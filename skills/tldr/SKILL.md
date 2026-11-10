@@ -96,7 +96,7 @@ Cette section n'est pas dans la source. Écris « *(hors source)* » après son 
 ## <Titre de section>
 ...
 
-**Points d'attention** *(hors source)* (si § 6)
+## Points d'attention *(hors source)* (si § 6)
 
 **Pour ajuster** : plus court · plus détaillé · extraire les actions · traduire · format fichier
 ```
